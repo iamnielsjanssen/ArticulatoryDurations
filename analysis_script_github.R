@@ -1,10 +1,11 @@
 # Data analysis of Articulation Data
 # 
-# Niels Janssen and Anna Siyanova-Chanturia 2017
+# (c) Niels Janssen and Anna Siyanova-Chanturia 2017
 # 
-# If you use this code for analysis that is published in an indexed journal or repository, please cite the following article:
+# If you use this code or data for analysis that is published in an indexed journal or repository, please cite the following article:
 # Siyanova-Chanturia & Janssen "Production of familiar phrases: Frequency effects in native speakers and second language learners"
 #
+# Run with R (3.4.1), lme4 (1.1-13), afex (0.17-8)
 # For questions email: njanssen@ull.es or anna.siyanova@vuw.ac.nz
 
 #-------------------------------------------------------------------
