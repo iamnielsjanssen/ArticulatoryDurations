@@ -16,7 +16,6 @@
 # read data matrix
 rm(list=ls())
 setwd('/Data/Dropbox/Documents/R_analyses/La_Laguna/Binomial reading/') # CHANGE TO FOLDER WITH DATA MATRIX
-#dt = read.table('data_matrix_github.txt', header=TRUE)
 dt = read.table("data_matrix_DEC2017.txt", header=TRUE, sep="\t")
 
 # quick look at data, note this is the cleaned data set
